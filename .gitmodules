@@ -1,3 +1,21 @@
 [submodule "RothkoPainting"]
 	path = RothkoPainting
 	url = https://github.com/nicktaormina3/RothkoPainting
+[submodule "RegistrationForm"]
+	path = RegistrationForm
+	url = https://github.com/nicktaormina3/RegistrationForm
+[submodule "FlexboxPhotoGallery"]
+	path = FlexboxPhotoGallery
+	url = https://github.com/nicktaormina3/FlexboxPhotoGallery
+[submodule "SurveyForm"]
+	path = SurveyForm
+	url = https://github.com/nicktaormina3/SurveyForm
+[submodule "CafeMenu"]
+	path = CafeMenu
+	url = https://github.com/nicktaormina3/CafeMenu
+[submodule "CatPhotoApp"]
+	path = CatPhotoApp
+	url = https://github.com/nicktaormina3/CatPhotoApp
+[submodule "ColoredMarkers"]
+	path = ColoredMarkers
+	url = https://github.com/nicktaormina3/ColoredMarkers
