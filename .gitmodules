@@ -19,3 +19,6 @@
 [submodule "ColoredMarkers"]
 	path = ColoredMarkers
 	url = https://github.com/nicktaormina3/ColoredMarkers
+[submodule "NutritionLabel"]
+	path = NutritionLabel
+	url = https://github.com/nicktaormina3/NutritionLabel
