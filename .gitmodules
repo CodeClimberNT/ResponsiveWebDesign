@@ -22,3 +22,6 @@
 [submodule "NutritionLabel"]
 	path = NutritionLabel
 	url = https://github.com/nicktaormina3/NutritionLabel
+[submodule "AccessibilityQuiz"]
+	path = AccessibilityQuiz
+	url = https://github.com/nicktaormina3/AccessibilityQuiz
