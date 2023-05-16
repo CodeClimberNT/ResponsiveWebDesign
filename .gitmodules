@@ -25,3 +25,6 @@
 [submodule "AccessibilityQuiz"]
 	path = AccessibilityQuiz
 	url = https://github.com/nicktaormina3/AccessibilityQuiz
+[submodule "BalanceSheet"]
+	path = BalanceSheet
+	url = https://github.com/nicktaormina3/BalanceSheet
