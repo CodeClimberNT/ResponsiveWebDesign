@@ -22,6 +22,3 @@
 [submodule "NutritionLabel"]
 	path = NutritionLabel
 	url = https://github.com/nicktaormina3/NutritionLabel
-[submodule "BalanceSheet"]
-	path = BalanceSheet
-	url = https://github.com/nicktaormina3/BalanceSheet
