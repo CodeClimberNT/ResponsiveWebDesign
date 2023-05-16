@@ -28,3 +28,6 @@
 [submodule "BalanceSheet"]
 	path = BalanceSheet
 	url = https://github.com/nicktaormina3/BalanceSheet
+[submodule "PicassoPainting"]
+	path = PicassoPainting
+	url = https://github.com/nicktaormina3/PicassoPainting
