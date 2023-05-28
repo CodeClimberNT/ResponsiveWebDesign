@@ -34,3 +34,6 @@
 [submodule "BuildingPiano"]
 	path = BuildingPiano
 	url = https://github.com/nicktaormina3/BuildingPiano
+[submodule "TechnicalDocumentationPage"]
+	path = TechnicalDocumentationPage
+	url = https://github.com/nicktaormina3/TechnicalDocumentationPage
