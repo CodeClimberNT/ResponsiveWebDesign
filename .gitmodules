@@ -31,3 +31,6 @@
 [submodule "PicassoPainting"]
 	path = PicassoPainting
 	url = https://github.com/nicktaormina3/PicassoPainting
+[submodule "BuildingPiano"]
+	path = BuildingPiano
+	url = https://github.com/nicktaormina3/BuildingPiano
