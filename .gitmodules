@@ -37,3 +37,6 @@
 [submodule "TechnicalDocumentationPage"]
 	path = TechnicalDocumentationPage
 	url = https://github.com/nicktaormina3/TechnicalDocumentationPage
+[submodule "TributePage"]
+	path = TributePage
+	url = https://github.com/nicktaormina3/TributePage
