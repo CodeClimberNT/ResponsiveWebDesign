@@ -43,3 +43,6 @@
 [submodule "CitySkyline"]
 	path = CitySkyline
 	url = https://github.com/nicktaormina3/CitySkyline
+[submodule "Magazine"]
+	path = Magazine
+	url = https://github.com/nicktaormina3/Magazine
