@@ -46,3 +46,15 @@
 [submodule "Magazine"]
 	path = Magazine
 	url = https://github.com/nicktaormina3/Magazine
+[submodule "FerrisWheel"]
+	path = FerrisWheel
+	url = https://github.com/nicktaormina3/FerrisWheel
+[submodule "LandingPage"]
+	path = LandingPage
+	url = https://github.com/nicktaormina3/LandingPage
+[submodule "Penguin"]
+	path = Penguin
+	url = https://github.com/nicktaormina3/Penguin
+[submodule "PortfolioWebpage"]
+	path = PortfolioWebpage
+	url = https://github.com/nicktaormina3/PortfolioWebpage
